@@ -1,0 +1,72 @@
+[
+{
+    "id":1,
+    "name":"Audi",
+    "price":"Rs.8,990,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/300x225/cw/ucp/stockApiImg/S6YGZ6Y_ba07cd4ec85444d4b32de9cc8a073741_1_30123888.jpg?q=75"
+},
+{
+    "id":2,
+    "name":"Swift",
+    "price":"Rs.5,730,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/370x208/n/cw/ec/139229/maruti-suzuki-alto-k10-left-front-three-quarter5.jpeg?isig=0&wm=1&q=75"
+},
+{
+    "id":3,
+    "name":"Scorpio",
+    "price":"Rs.2,400,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-46.jpeg?isig=0&q=75"
+},
+{
+    "id":4,
+    "name":"Toyota",
+    "price":"Rs.3,200,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/272x153/cw/body/hatchbacks.jpg?v=1&q=75"
+},
+{
+    "id":5,
+    "name":"Tata Sumo",
+    "price":"Rs.8,930,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/272x153/cw/body/sedan.jpg?v=1&q=75"
+},
+{
+    "id":6,
+    "name":"Kia Seltos",
+    "price":"Rs.1,050,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/370x208/n/cw/ec/139229/maruti-suzuki-alto-k10-left-front-three-quarter5.jpeg?isig=0&wm=1&q=75"
+},
+{
+    "id":7,
+    "name":"BMW i4",
+    "price":"Rs.6,99,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-4.jpeg?isig=0&q=75"
+},
+{
+    "id":8,
+    "name":"Baleno",
+    "price":"Rs.9,60,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/272x153/cw/body/hatchbacks.jpg?v=1&q=75"
+},
+{
+    "id":9,
+    "name":"Skoda Exterior",
+    "price":"Rs.3,995,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-46.jpeg?isig=0&q=75"
+},
+{
+    "id":10,
+    "name":"Hyundai Venue",
+    "price":"Rs.1,272,000",
+    "qty":0,
+    "img":"https://imgd.aeplcdn.com/370x208/n/cw/ec/139229/maruti-suzuki-alto-k10-left-front-three-quarter5.jpeg?isig=0&wm=1&q=75"
+}
+]

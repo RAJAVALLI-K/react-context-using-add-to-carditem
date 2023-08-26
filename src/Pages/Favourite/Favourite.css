@@ -1,0 +1,10 @@
+.favdiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.removefav{
+    padding: 1%;
+    background-color: black;
+    color: beige;
+}

@@ -1,0 +1,63 @@
+body {
+    background: linear-gradient(45deg, yellow, skyblue);
+    width: 100%;
+    background-repeat:no-repeat;
+}
+
+.homediv {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    width: 88%;
+    margin: auto;
+}
+
+.cars {
+    margin-right: 1%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 2px 2px 10px #ccc;
+    text-align: center;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.image {
+    width: 200px;
+    height: 100px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.detail {
+    text-align: center;
+    font-size: larger;
+}
+
+.addcart {
+    padding: 10px;
+    font-size: 30px;
+    color: black;
+    margin: 2%;
+}
+
+.addcart :hover {
+    color: rgb(216, 50, 202);
+}
+
+.fav {
+    padding: 10px;
+    font-size: 30px;
+    color: black;
+    margin: 2%;
+}
+
+.fav :hover {
+    color: rgb(216, 50, 202);
+    ;
+}
